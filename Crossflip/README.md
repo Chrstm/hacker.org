@@ -8,10 +8,9 @@ Fourthly, the base algorithm is Gaussian elimination, and I design some interest
 
 Fifthly, an example.
 
-|||
-|:-:|:-:|
 |Rectangle Size|263x263|
+|:-:|:-:|
 |Time|5 min|
 |Memory|576MB|
 |CPU|Intel(R) i7-6700HQ 2.60GHz|
-|CPU utilization rate|about 18%|
+|CPU Utilization Rate|about 18%|
